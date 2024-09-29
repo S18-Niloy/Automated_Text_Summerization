@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 3. Run the model:
 ```
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 # Interface: 
