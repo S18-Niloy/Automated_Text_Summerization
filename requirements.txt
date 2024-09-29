@@ -1,8 +1,6 @@
-transformers==4.31.0         # For using pre-trained models and tokenizers
-torch==2.0.0                 # PyTorch library for model training and inference
-datasets==2.13.0             # For handling datasets
-evaluate==0.3.0              # For loading evaluation metrics like ROUGE
-streamlit==1.21.0            # For building the web app
-scikit-learn==1.2.2          # For any additional metrics and utilities
-numpy==1.24.2                # For numerical operations
-pandas==1.5.3                # For data manipulation and analysis
+transformers==4.31.0
+torch
+streamlit
+datasets
+rouge-score
+# Include any other required libraries
